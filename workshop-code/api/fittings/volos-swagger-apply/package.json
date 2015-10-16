@@ -1,0 +1,58 @@
+{
+  "name": "volos-swagger-apply",
+  "version": "0.0.2",
+  "description": "A swagger-node fitting for x-volos-apply",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apigee-127/volos-swagger-apply.git"
+  },
+  "keywords": [
+    "swagger",
+    "volos",
+    "apigee",
+    "cache",
+    "quota",
+    "analytics",
+    "spikearrest",
+    "spike",
+    "arrest"
+  ],
+  "author": {
+    "name": "Scott Ganyo",
+    "email": "sganyo@apigee.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apigee-127/volos-swagger-apply/issues"
+  },
+  "homepage": "https://github.com/apigee-127/volos-swagger-apply#readme",
+  "dependencies": {
+    "volos-swagger": "^0.7.9"
+  },
+  "gitHead": "395e00c56c204ad730a41c3213b059dac732d76a",
+  "_id": "volos-swagger-apply@0.0.2",
+  "_shasum": "7dad3ad22eedd90898f11caf93be0ae3839dc8fc",
+  "_from": "volos-swagger-apply@*",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.1.2",
+  "_npmUser": {
+    "name": "scottganyo",
+    "email": "scott@ganyo.com"
+  },
+  "maintainers": [
+    {
+      "name": "scottganyo",
+      "email": "scott@ganyo.com"
+    }
+  ],
+  "dist": {
+    "shasum": "7dad3ad22eedd90898f11caf93be0ae3839dc8fc",
+    "tarball": "http://registry.npmjs.org/volos-swagger-apply/-/volos-swagger-apply-0.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/volos-swagger-apply/-/volos-swagger-apply-0.0.2.tgz"
+}
